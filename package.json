@@ -1,0 +1,12 @@
+{
+  "name": "nic-bot",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Andrew Short <andrewjshort@gmail.com>",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
